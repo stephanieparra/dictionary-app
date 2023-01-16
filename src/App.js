@@ -1,11 +1,11 @@
-import image from "./dictionary-app-img.png";
+import logo from "./dictionary-app-img.png";
 import "./App.css";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header"></header>
-      <img src={image} className="App-img img-fluid" alt="image" />
+      <img src={logo} className="App-img img-fluid" alt="dictionary-logo" />
     </div>
   );
 }
