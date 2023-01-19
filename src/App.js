@@ -12,7 +12,7 @@ function App() {
         <main>
           <Dictionary />
         </main>
-        <footer className="text-center">
+        <footer className="App-footer">
           <small>Coded and designed by Stephanie Parra.</small>
         </footer>
       </div>
