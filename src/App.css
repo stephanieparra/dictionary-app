@@ -1,5 +1,6 @@
 body {
     background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/064/187/original/dictionary-app-img.png?1674519319");
+    background-repeat: no-repeat;
 }
 
 a {
