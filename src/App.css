@@ -1,9 +1,17 @@
+body {
+    background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/064/187/original/dictionary-app-img.png?1674519319");
+}
+
+a {
+    color: #245D78;
+}
+
 .App-header {
     margin: 30px 0;
 }
 
 .App-img {
-    max-width: 200px;
+    max-width: 400px;
     display: block;
     margin: 0 auto;
     
