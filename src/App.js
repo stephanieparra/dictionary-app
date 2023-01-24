@@ -7,10 +7,14 @@ function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
-          <img src={logo} className="App-img img-fluid" alt="dictionary-title" />
+          <img
+            src={logo}
+            className="App-img img-fluid"
+            alt="dictionary-title"
+          />
         </header>
         <main>
-          <Dictionary defaultKeyword="sunrise" />
+          <Dictionary defaultKeyword="sunset" />
         </main>
         <footer className="App-footer">
           <small>Coded and designed by Stephanie Parra.</small>
