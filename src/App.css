@@ -1,24 +1,28 @@
 body {
-    background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/064/187/original/dictionary-app-img.png?1674519319");
-    background-repeat: no-repeat;
+  background-image: url("https://s3.amazonaws.com/shecodesio-production/uploads/files/000/064/187/original/dictionary-app-img.png?1674519319");
+  background-repeat: no-repeat;
 }
 
 a {
-    color: #245D78;
+  color: #245d78;
+}
+
+.App {
+  max-width: 960px;
+  margin: 0 auto;
 }
 
 .App-header {
-    margin: 30px 0;
+  margin: 30px 0;
 }
 
 .App-img {
-    max-width: 400px;
-    display: block;
-    margin: 0 auto;
-    
+  max-width: 400px;
+  display: block;
+  margin: 0 auto;
 }
 
 .App-footer {
-    text-align: center;
-    margin: 30px 0;
+  text-align: center;
+  margin: 30px 0;
 }
