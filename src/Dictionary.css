@@ -1,7 +1,7 @@
 .Dictionary h1 {
-    font-size: 18px;
-    font-weight: bold;
-    margin-bottom: 20px;
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 20px;
 }
 
 .Dictionary section {
@@ -12,6 +12,7 @@
   margin: 20px 0;
   border: 1px solid;
   border-color: #a1a1a1;
+  font-family: "Josefin Sans", sans-serif;
 }
 
 .Dictionary input {
@@ -20,9 +21,11 @@
   border: 1px solid #ddd;
   border-radius: 6px;
   color: #333;
+  font-family: "Lato", sans-serif;
 }
 
 .Dictionary .hint {
   font-size: 11px;
   margin-top: 7px;
+  font-family: "Lato", sans-serif;
 }
