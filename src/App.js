@@ -17,7 +17,22 @@ function App() {
           <Dictionary defaultKeyword="sunset" />
         </main>
         <footer className="App-footer">
-          <small>Coded and designed by Stephanie Parra.</small>
+          Coded by{" "}
+          <a
+            href="https://optimistic-torvalds-560c7b.netlify.app"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Stephanie Parra
+          </a>{" "}
+          •{" "}
+          <a
+            href="https://github.com/stephanieparra/react-weather-app"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Open-sourced
+          </a>
         </footer>
       </div>
     </div>
