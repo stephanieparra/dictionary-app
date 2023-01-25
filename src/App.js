@@ -27,7 +27,7 @@ function App() {
           </a>{" "}
           •{" "}
           <a
-            href="https://github.com/stephanieparra/react-weather-app"
+            href="https://github.com/stephanieparra/dictionary-app"
             target="_blank"
             rel="noopener noreferrer"
           >
