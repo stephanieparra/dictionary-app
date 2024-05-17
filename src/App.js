@@ -19,7 +19,7 @@ function App() {
         <footer className="App-footer">
           Coded by{" "}
           <a
-            href="https://optimistic-torvalds-560c7b.netlify.app"
+            href="https://stephanie-parra-portfolio.netlify.app"
             target="_blank"
             rel="noopener noreferrer"
           >
