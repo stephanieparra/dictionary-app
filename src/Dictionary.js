@@ -25,7 +25,7 @@ export default function Dictionary(props) {
 
     let imagesApiKey = "b3388014b013fd3aot7828a2bfbfecfe";
 
-    let imagesApiUrl = `https://api.shecodes.io/images/v1/search?query={query}&key={key}`;
+    let imagesApiUrl = `https://api.shecodes.io/images/v1/search?query=${keyword}&key=${imagesApiKey}`;
     let headers = { Authorization: `Bearer ${imagesApiKey}` };
     axios.get(imagesApiUrl, { headers: headers }).then(handleImagesResponse);
   }
