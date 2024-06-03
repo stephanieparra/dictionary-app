@@ -19,7 +19,7 @@ export default function Dictionary(props) {
   }
 
   function search() {
-    // documentation: https://dictionaryapi.dev/
+    // documentation: dictionaryapi.dev & SheCodes Image API //
     let apiUrl = `https://api.dictionaryapi.dev/api/v2/entries/en/${keyword}`;
     axios.get(apiUrl).then(handleDictionaryResponse);
 
