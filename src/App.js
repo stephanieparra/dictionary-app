@@ -7,11 +7,7 @@ function App() {
     <div className="App">
       <div className="container">
         <header className="App-header">
-          <img
-            src={logo}
-            className="App-img img-fluid"
-            alt="dictionary-title"
-          />
+          <h1>Dictionary</h1>
         </header>
         <main>
           <Dictionary defaultKeyword="sunset" />

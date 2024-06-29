@@ -27,3 +27,11 @@ a {
   margin: 30px 0;
   font-family: "Josefin Sans", sans-serif;
 }
+
+h1 {
+  font-family: "Josefin Sans", sans-serif;
+  color: #245d78;
+  font-size: 70px;
+  font-weight: bold;
+  text-align: center;
+}
